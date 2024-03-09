@@ -1,0 +1,5 @@
+MYSQL_HOST = 'localhost'
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = ''
+MYSQL_DB = 'usuarios'
+HEX_SEC_KEY = '2004040109es'
